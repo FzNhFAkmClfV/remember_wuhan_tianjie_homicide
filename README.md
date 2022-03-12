@@ -13,9 +13,11 @@
 > 导致出现暴力流血冲突。
 > 目前犯罪嫌疑人已被江汉分局抓获。
 >
-> ![A picture of the crime scene](./assets/event/01.JPG)
+> <img src = "./assets/event/01.JPG" style = "width: 30%" alt = "A picture of the crime scene" />
 
-![A chat history mentioning that the victim is a female, indicating he/she is a transgender female](./assets/event/02.JPG)
+<img alt = "A chat history mentioning that the victim is a female, indicating he/she is a transgender female" 
+     src = "./assets/event/02.JPG"
+     style = "width: 30%" />
 
 [Source](https://twitter.com/TRANS_MIZUKI/status/1501802653566869504)
 
@@ -46,7 +48,7 @@
 
 > R.I.P 愿她下辈子一定是美少女……
 
-> ![meme](./assets/comments/01.JPG)
+> <img src="./assets/comments/01.JPG" style="width: 50%" />
 
 ---
 

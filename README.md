@@ -13,11 +13,11 @@
 > 导致出现暴力流血冲突。
 > 目前犯罪嫌疑人已被江汉分局抓获。
 >
-> <img src = "./assets/event/01.JPG" style = "width: 30%" alt = "A picture of the crime scene" />
+> <img src = "./assets/event/01.JPG" style = "width: 40%" alt = "A picture of the crime scene" />
 
 <img alt = "A chat history mentioning that the victim is a female, indicating he/she is a transgender female" 
      src = "./assets/event/02.JPG"
-     style = "width: 30%" />
+     style = "width: 40%" />
 
 [Source](https://twitter.com/TRANS_MIZUKI/status/1501802653566869504)
 
@@ -48,11 +48,11 @@
 
 > R.I.P 愿她下辈子一定是美少女……
 
-> <img src="./assets/comments/01.JPG" style="width: 50%" />
+> <img src="./assets/comments/01.JPG" style="width: 40%" />
 
 ---
 
 刚才在百度搜了一下，发现完全没有任何媒体讲这件事，也没有官方的回应。
 认为这件事不应该被如此忽视，于是建立了这个repo，整理一下所有社交软件上与本事件有关的信息。
 
-<!-- 如果有更多关于本事件的信息欢迎在__发出来 -->
+如果有更多关于本事件的信息欢迎在`discussion`中发出来

@@ -71,8 +71,12 @@
 > 至少我们每个人应该记住她的名字…
 > [\*](https://twitter.com/Ayane014081/status/1501927387944321030)
 
-> R.I.P 愿她下辈子一定是美少女……
+---
 
+## R.I.P 愿她下辈子一定是美少女……
+
+> R.I.P 愿她下辈子一定是美少女……
+> 
 > <img src="./assets/comments/01.JPG" style="width: 40%" />
 
 ---
